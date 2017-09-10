@@ -1,6 +1,5 @@
 #pragma once
 #include <vector>
-#include <functional>
 
 using namespace std;
 
