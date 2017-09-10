@@ -1,7 +1,7 @@
 #include <iostream>
 #include <queue>
-#include "SLL.h"
-#include "BST.h"
+#include "SLL.hpp"
+#include "BST.hpp"
 
 using namespace std;
 
