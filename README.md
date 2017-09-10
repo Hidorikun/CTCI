@@ -1,5 +1,5 @@
 # CTCI
-Problems solved while reading "Cracking the coding interview".
+Problems solved while reading [Cracking the coding interview](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf).
 
 # NOTE
 compile & run with: 
