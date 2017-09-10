@@ -10,4 +10,4 @@ g++ -std=c++11 main.cpp -o main.exe && ./main.exe
 if the following error occurs to you : 
 >The procedure entry point \_gxx_personality_v0 could not be located in the dynamic link library
 
-put __libstdc++-6.dll__ in the same folder as _main.exe_
+put __libstdc++-6.dll__ in the same folder as __main.exe__
