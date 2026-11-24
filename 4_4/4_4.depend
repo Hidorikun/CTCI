@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503448704 source:c:\users\george\desktop\google\4_4\main.cpp
+	<iostream>
+	"SLL.h"
+	"BST.h"
+	<queue>
+
+1503355202 c:\users\george\desktop\google\4_4\sll.h
+
+1503444811 c:\users\george\desktop\google\4_4\bst.h
+	<vector>
+	<functional>
+

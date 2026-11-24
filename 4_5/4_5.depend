@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503837104 source:c:\users\george\desktop\google\4_5\main.cpp
+	<iostream>
+	"BST.h"
+
+1503836397 c:\users\george\desktop\google\4_5\bst.h
+	<vector>
+	<functional>
+

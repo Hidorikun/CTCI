@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503003483 source:c:\users\george\desktop\google\4_1\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<map>
+	<string>
+

@@ -26,6 +26,20 @@ public:
 		this->head = _head;
 		this->tail = _head;
 	}
+
+	~SLL()
+	{
+		Node* aux;
+		while( this->head != NULL )
+		{
+			aux = this->head;
+std::cout << aux << '\n';
+			this->head = this->head->next;
+			delete aux;
+			aux = NULL;
+		}
+	}
+
 	void push_back( Node* new_node )
 	{
 		if ( this->head == NULL)
